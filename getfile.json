@@ -1,29 +1,29 @@
-{
+   {
   
-    "result": true,
-      
-    "plugins_": {
-      
-    "AddedMe.lua":"[ملف امر منو ضافني](https://t.me/Kanserfile/20)",
-      
-    "TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/Kanserfile/21)",
-      
-    "TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/Kanserfile/23)",
-      
-    "ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/Kanserfile/26)",
+        "result": true,
           
-    "MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/Kanserfile/22)",
-      
-    "ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/Kanserfile/24)",
-      
-    "ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/Kanserfile/18)",
-        
-    "ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/Kanserfile/19)",
-      
-    "ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/Kanserfile/17)",
-      
-    "AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/Kanserfile/25)",
-      
-    }
-      
-    }
+        "plugins_": {
+          
+        "AddedMe.lua":"[ملف امر منو ضافني](https://t.me/Kanserfiles/20)",
+          
+        "TagAll.lua":"[ملف تاك منفصل للاعضاء](https://t.me/Kanserfiles/21)",
+          
+        "TagAdmins.lua":"[ملف تاك منفصل للمشرفين](https://t.me/Kanserfiles/23)",
+          
+        "ReplyBot.lua":"[ملف الردود الخاص بالسورس](https://t.me/Kanserfiles/26)",
+              
+        "MuteNames.lua":"[ملف كتم الاسماء للمجموعات](https://t.me/Kanserfiles/22)",
+          
+        "ProNames.lua":"[ملف وضع التوحيد للمجموعات](https://t.me/Kanserfiles/24)",
+          
+        "ChangeName.lua":"[ملف التنبيه لتغيير الاسم](https://t.me/Kanserfiles/18)",
+            
+        "ChangeUser.lua":"[ملف التنبيه لتغيير المعرف](https://t.me/Kanserfiles/19)",
+          
+        "ChangePhoto.lua":"[ملف التنبيه لتغيير الصوره](https://t.me/Kanserfiles/17)",
+          
+        "AutoFile.lua":"[ملف النسخ الاحتياطيه التلقائيه](https://t.me/Kanserfiles/25)",
+          
+        }
+          
+        }
